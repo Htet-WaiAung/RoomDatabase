@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private boolean updatestate = false;
     private int updateid = 0;
+    private int arrow=0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
